@@ -1,10 +1,10 @@
-📊 Personal Finance Tracker
+**📊 Personal Finance Tracker**
 
 -A simple React-based dashboard to manage your monthly income and daily expenses.
 
 -You can set your income at the beginning of the month, log expenses under fixed categories, and track how your money is being spent.
 
-🚀 Features
+**🚀 Features**
 
 -Set monthly income at the start of each month
 
@@ -17,7 +17,7 @@
 -Local data handling (currently stored in browser memory)
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 React – Frontend framework
 
@@ -26,27 +26,27 @@ Tailwind CSS – Styling
 Recharts / Chart.js (planned) – Data visualization
 
 
-⚡ Getting Started
+**⚡ Getting Started**
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/personal-finance-tracker.git
+ git clone https://github.com/your-username/personal-finance-tracker.git
 
-cd personal-finance-tracker
+ cd personal-finance-tracker
 
 2️⃣ Install Dependencies
 
-npm install
+ npm install
 
 3️⃣ Start the Development Server
 
-npm start
+ npm start
 
 4️⃣ Open in Browser
 
-👉 http://localhost:3000
+ 👉 http://localhost:3000
 
-📌 Roadmap
+**📌 Roadmap**
 
  -Add backend for persistent storage
  
