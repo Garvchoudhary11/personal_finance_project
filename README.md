@@ -16,6 +16,7 @@ Recharts / Chart.js (planned) – Data visualization
 
 
 ⚡ Getting Started
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/personal-finance-tracker.git
 cd personal-finance-tracker
